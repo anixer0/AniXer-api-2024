@@ -16,9 +16,9 @@ main = "./lib/api.js"
 # upload.format = "modules"  # This is for ES Modules, adjust if using something else.
 
 # KV namespaces (optional, only if you're using Cloudflare KV storage)
-# [[kv_namespaces]]
-# binding = "MY_NAMESPACE"
-# id = "namespace-id"
+# [[kv_anixer]]
+# binding = "anixer"
+# id = "c4c3a6c8be89402ca98dca6b3ebd33d6"
 
 # Durable Objects (optional, only if you're using Durable Objects for state management)
 # [[durable_objects]]
